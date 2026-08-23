@@ -35,6 +35,7 @@ Large Language Models (LLMs) have made remarkable progress in natural language p
 - (*arXiv 2024.07*) Retrieval-Augmented Generation for Natural Language Processing: A Survey[[paper](https://arxiv.org/abs/2407.13193)]
 
 ## Method
+- (*Findings of EMNLP'25*) QUARTZ: QA-based Unsupervised Abstractive Refinement for Task-oriented Dialogue Summarization [[paper](https://aclanthology.org/2025.findings-emnlp.793/)][[code](https://github.com/Mohamed-Imed-Eddine/QUARTZ)]
 - (*EMNLP'23*) StructGPT: A General Framework for Large Language Model to Reason over Structured Data [[paper](https://arxiv.org/abs/2305.09645)][[code](https://github.com/RUCAIBox/StructGPT)]
 - (*NAACL'24*) Select and Summarize: Scene Saliency for Movie Script Summarization[[paper](https://aclanthology.org/2024.findings-naacl.218/)][[code](https://github.com/saxenarohit/select_summ)]
 - (*NAACL'24*) RST-LoRA: A Discourse-Aware Low-Rank Adaptation for Long Document Abstractive Summarization[[paper][https://aclanthology.org/2024.naacl-long.121/]]
